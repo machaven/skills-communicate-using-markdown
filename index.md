@@ -5,3 +5,6 @@
 ```
 $ rm -rf /
 ```
+## Task List
+- [x] run command
+- [ ] run for the hills
